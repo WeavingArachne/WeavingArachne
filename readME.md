@@ -3,10 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WeavingArachne&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false%22%20height=%22150%22%20alt=%22stats%20graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=WeavingArachne&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=WeavingArachne&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=WeavingArachne&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false%22%20height=%22150%22%20alt=%22stats%20graph" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WeavingArachne&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -68,5 +66,6 @@
 <img src="https://raw.githubusercontent.com/SabineV2P/SabineV2P/3a77dbc409ff94f63ea1e611c7c58c073c8fcf54/snake.svg" alt="Snake animation" />
 
 ###
+
 
 
